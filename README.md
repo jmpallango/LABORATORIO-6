@@ -189,6 +189,9 @@ RL= 4.7 KΩ
 
 ![image](https://user-images.githubusercontent.com/105695077/179241280-80ad7eae-cc65-4a9e-8456-1c66b004cb9a.png)
 
+
+![image](https://user-images.githubusercontent.com/105695077/179248186-5a885633-d19c-4da7-8d24-b884d79c1903.png)
+
 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
 ¿Cuál fue la potencia máxima en RL? __________________Watts
