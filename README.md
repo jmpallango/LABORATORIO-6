@@ -44,12 +44,40 @@ Identificar la maxima transferencia de potencia y emitir en resultados el porcen
 
 ![Doc1_page-0001](https://user-images.githubusercontent.com/105695077/179235903-7b03828d-1b7e-4e91-b7f6-a17926106f8f.jpg)
 
-
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
+La cantidad de potencia que una fuente de voltaje puede suministrar está limitada por
+su resistencia interna RS.
 
+El Teorema de la Máxima Transferencia de Potencia establece que:
+
+Una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia
+de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la
+fuente, RS.
+
+![image](https://user-images.githubusercontent.com/105695077/179236338-3d9bacda-2ff2-4884-9816-5fe0ae762c64.png)
 
 PROCEDIMIENTO:
+
+Arme el circuito que se muestra en la figura 6.1.
+
+![image](https://user-images.githubusercontent.com/105695077/179236445-0cf9f214-71d4-4f86-a97e-e8b2774d554d.png)
+
+Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos:
+
+Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1:
+
+Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 6.1:
+
+¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+
+¿Cuál fue la potencia máxima en RL? __________________Watts
+
+¿Para qué valor de RL se obtiene la MTP? _______________ Ω
+
+Grafique la curva Potencia vs RL y comente.
+
+Calcular errores de las mediciones y comentar los resultados.
 
 
 # VIDEO
