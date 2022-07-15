@@ -42,6 +42,8 @@ Identificar la maxima transferencia de potencia y emitir en resultados el porcen
 # MARCO TEORICO:
 
 
+![Doc1_page-0001](https://user-images.githubusercontent.com/105695077/179235903-7b03828d-1b7e-4e91-b7f6-a17926106f8f.jpg)
+
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
