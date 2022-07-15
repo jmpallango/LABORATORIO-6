@@ -212,6 +212,7 @@ Grafique la curva Potencia vs RL y comente.
 
 Calcular errores de las mediciones y comentar los resultados.
 
+tiene un margen de error del 0.1% con respecto a los datos obtenido y los datos calculados 
 
 # VIDEO
 
