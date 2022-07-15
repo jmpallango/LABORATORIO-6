@@ -200,7 +200,7 @@ Si se cumple, ya que la fuente de voltaje entrega la máxima transferencia de po
 
 ¿Cuál fue la potencia máxima en RL? __________________Watts
 
-0.0465 Watts
+0.048 Watts
 
 ¿Para qué valor de RL se obtiene la MTP? _______________ Ω
 
