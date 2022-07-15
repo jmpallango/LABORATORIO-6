@@ -202,6 +202,8 @@ RL= 4.7 KΩ
 
 Grafique la curva Potencia vs RL y comente.
 
+![image](https://user-images.githubusercontent.com/105695077/179260766-e144ba30-83dc-4b36-8e0d-ca931707b296.png)
+
 Calcular errores de las mediciones y comentar los resultados.
 
 
