@@ -107,7 +107,87 @@ RL = 4.7 KΩ
 
 Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1:
 
+RL= 220Ω
+
+![image](https://user-images.githubusercontent.com/105695077/179241568-f3667828-da35-4656-8551-dbc6b4202e72.png)
+
+RL= 470Ω
+
+![image](https://user-images.githubusercontent.com/105695077/179241613-7499d9f9-550d-4690-8cbe-78d158720b24.png)
+
+RL= 680 Ω
+
+![image](https://user-images.githubusercontent.com/105695077/179241671-590d0ded-332b-4272-b358-37fcf7b8f76f.png)
+
+RL = 820Ω
+
+![image](https://user-images.githubusercontent.com/105695077/179241739-dff37fb5-7c5f-4d85-9bad-7a254bc7202e.png)
+
+RL = 1 KΩ
+
+![image](https://user-images.githubusercontent.com/105695077/179241791-22f2aff0-daa0-4300-9659-a595872d621a.png)
+
+RL = 1.5 KΩ
+
+![image](https://user-images.githubusercontent.com/105695077/179241831-09610200-4541-4113-a0e7-04681066b264.png)
+
+RL= 1.8 KΩ
+
+![image](https://user-images.githubusercontent.com/105695077/179241864-bcd9c47d-1184-46a8-b4a0-c474b1e77268.png)
+
+RL= 2.2 KΩ
+
+![image](https://user-images.githubusercontent.com/105695077/179241909-ea8c09a9-8441-418e-af0a-a6f098cc1112.png)
+
+RL = 3.9 KΩ
+
+![image](https://user-images.githubusercontent.com/105695077/179241959-3ca9db10-adc2-41ac-85f1-13218c426dd2.png)
+
+RL = 4.7 KΩ
+
+![image](https://user-images.githubusercontent.com/105695077/179242001-62aecac6-9df2-4e1d-b294-3ebc7d0e85ae.png)
+
 Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 6.1:
+
+RL= 220 Ω
+
+![image](https://user-images.githubusercontent.com/105695077/179240779-6f8ccb4d-297e-4c5e-9fb4-a876aee8b92d.png)
+
+RL= 470Ω
+
+![image](https://user-images.githubusercontent.com/105695077/179240827-51b478b6-54e9-4b3c-8e95-26e6b5e4d471.png)
+
+RL= 680 Ω
+
+![image](https://user-images.githubusercontent.com/105695077/179240886-103fbc98-298a-4f31-8598-3bf69d8075ef.png)
+
+RL = 820Ω
+
+![image](https://user-images.githubusercontent.com/105695077/179240947-1c7267fd-0c2a-4179-bc11-cb33d9ad8334.png)
+
+RL = 1 KΩ
+
+![image](https://user-images.githubusercontent.com/105695077/179240993-e17533d2-6548-40ed-b73b-a9d78f822b42.png)
+
+RL = 1.5 KΩ
+
+![image](https://user-images.githubusercontent.com/105695077/179241040-867392bd-5e8f-468b-93e2-36a8863ef5c7.png)
+
+RL = 1.8 KΩ
+
+![image](https://user-images.githubusercontent.com/105695077/179241137-05ce589f-6756-4574-a289-6f3c3c8e11bd.png)
+
+RL = 2.2 KΩ
+
+![image](https://user-images.githubusercontent.com/105695077/179241190-1be39c6d-26b4-46ff-a303-fe733dfef93a.png)
+
+RL = 3.9 KΩ
+
+![image](https://user-images.githubusercontent.com/105695077/179241237-62f8f369-38ec-4276-ab0b-d6eadb005832.png)
+
+RL= 4.7 KΩ
+
+![image](https://user-images.githubusercontent.com/105695077/179241280-80ad7eae-cc65-4a9e-8456-1c66b004cb9a.png)
 
 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
