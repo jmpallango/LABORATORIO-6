@@ -220,7 +220,9 @@ tiene un margen de error del 0.1% con respecto a los datos obtenido y los datos 
 
 # CONCLUSIONES:
 
+Se pudo determinar que la resistencia de 1 kOhm es la que brinda una mayor potencia en el circuito elecrico resuelto de forma teórica y por medio de la simulación, se ha determinado que la potencia en las resistencias incrementaban al acercarse al valor de 1000 ohms y se reducian al alejarse de la misma.
 
+Los datos obtenidos en este circuito eléctrico a partir del teorema de Maxíma Transferencia de potencia son precisos, llegando a tener un rango de exactitud entre 99.9% y el 99.7% por lo que concluimos que el método es muy fiable para resolver este tipo de circuitos eléctricos.
 
 # BIBLIOGRAFÍA:
 
