@@ -216,7 +216,7 @@ tiene un margen de error del 0.1% con respecto a los datos obtenido y los datos 
 
 # VIDEO
 
-
+https://youtu.be/8YLQW1CBt70
 
 # CONCLUSIONES:
 
