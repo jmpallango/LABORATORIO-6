@@ -41,7 +41,6 @@ Identificar la maxima transferencia de potencia y emitir en resultados el porcen
 
 # MARCO TEORICO:
 
-
 ![Doc1_page-0001](https://user-images.githubusercontent.com/105695077/179235903-7b03828d-1b7e-4e91-b7f6-a17926106f8f.jpg)
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
@@ -189,6 +188,9 @@ RL= 4.7 KΩ
 
 ![image](https://user-images.githubusercontent.com/105695077/179241280-80ad7eae-cc65-4a9e-8456-1c66b004cb9a.png)
 
+![CamScanner 07-15-2022 10 48_page-0001](https://user-images.githubusercontent.com/105695077/179260359-58841623-2fb5-483c-bb8b-a8b07f306e11.jpg)
+
+![CamScanner 07-15-2022 10 48_page-0002](https://user-images.githubusercontent.com/105695077/179260404-fc10a89a-e8f3-459a-b711-b3ec8d3fee94.jpg)
 
 ![image](https://user-images.githubusercontent.com/105695077/179249087-c8b99f95-3575-44a8-8aa9-0cb5a0cd816c.png)
 
