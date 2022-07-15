@@ -65,6 +65,29 @@ Arme el circuito que se muestra en la figura 6.1.
 
 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos:
 
+RL = 220Ω
+![image](https://user-images.githubusercontent.com/105695077/179238162-2eed9ee1-96b0-44b3-8ce7-5a30732447ea.png)
+
+RL = 470 Ω
+![image](https://user-images.githubusercontent.com/105695077/179238208-cdd9ce6d-e8d2-46e6-9f5e-8a1ffc4f2536.png)
+
+RL = 680 Ω
+![image](https://user-images.githubusercontent.com/105695077/179238255-fe701936-f222-45f3-84f6-42d76b032d08.png)
+
+RL= 820 Ω
+![image](https://user-images.githubusercontent.com/105695077/179238304-3ebff52f-0a6d-4f1f-907f-4b79bc0fbc1e.png)
+
+RL = 1 K Ω
+![image](https://user-images.githubusercontent.com/105695077/179238349-dc4ab9bc-fd28-4d8e-96c2-7cd229f238ca.png)
+
+RL= 1.5 K Ω
+![image](https://user-images.githubusercontent.com/105695077/179238395-abfbd633-f24c-41ea-99db-00412311e8e2.png)
+
+RL= 1.8 KΩ
+![image](https://user-images.githubusercontent.com/105695077/179238462-1bbf4c8a-bd8a-4b51-b33c-042bf7acfff0.png)
+
+
+
 Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1:
 
 Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 6.1:
