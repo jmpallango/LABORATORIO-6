@@ -196,11 +196,11 @@ RL= 4.7 KΩ
 
 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
-Si se cumple, ya que la fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS, y como se observa la resitencia RL de 1kohm es la que mas se acerca a la resitencia RS 1.2kohm, y es con esta resistencia donde se obtiene la máxima transferencia de potencia.
+No se cumple, ya que la fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS, y como se observa la resitencia RL de 1kohm es la que mas se acerca a la resitencia RS 1.2kohm, y es con esta resistencia donde se obtiene la máxima transferencia de potencia.
 
 ¿Cuál fue la potencia máxima en RL? __________________Watts
 
-0.048 Watts
+0.0465 Watts
 
 ¿Para qué valor de RL se obtiene la MTP? _______________ Ω
 
