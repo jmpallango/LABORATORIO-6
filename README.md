@@ -192,13 +192,19 @@ RL= 4.7 KΩ
 
 ![CamScanner 07-15-2022 10 48_page-0002](https://user-images.githubusercontent.com/105695077/179260404-fc10a89a-e8f3-459a-b711-b3ec8d3fee94.jpg)
 
-![image](https://user-images.githubusercontent.com/105695077/179249087-c8b99f95-3575-44a8-8aa9-0cb5a0cd816c.png)
+![image](https://user-images.githubusercontent.com/105695077/179261678-95b274cf-526c-4ffa-9790-97c42521810c.png)
 
 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
+Si se cumple, ya que la fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS, y como se observa la resitencia RL de 1kohm es la que mas se acerca a la resitencia RS 1.2kohm, y es con esta resistencia donde se obtiene la máxima transferencia de potencia.
+
 ¿Cuál fue la potencia máxima en RL? __________________Watts
 
+0.0465 Watts
+
 ¿Para qué valor de RL se obtiene la MTP? _______________ Ω
+
+1200 Ω
 
 Grafique la curva Potencia vs RL y comente.
 
